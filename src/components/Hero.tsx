@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import ProfileCard from './ProfileCard';
-import avatarImg from './imgs/download.jpg';
+import avatarImg from './imgs/adityacard.jpg';
 
 const Hero = () => {
     return (
